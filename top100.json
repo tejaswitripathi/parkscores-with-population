@@ -1,0 +1,4405 @@
+{
+    "ParkScores": {
+            
+        "Albuquerque, NM": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "90",
+                "Text": "90% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 87.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 61.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 57.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 63.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$161 ",
+                "Text": "$161 per person is spent on parks and recreation in an average year.",
+                "Total Data": "90,422,580",
+                "Avg. Points": 59.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "15",
+                "Text": "Overall ParkScore Rank: 15",
+                "Total Data": NaN,
+                "Avg. Points": 65.8
+            }
+        ],
+        "Anaheim, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "67",
+                "Text": "67% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 57.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 74.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 23.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 28.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$97 ",
+                "Text": "$97 per person is spent on parks and recreation in an average year.",
+                "Total Data": "33,844,919",
+                "Avg. Points": 29.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "76",
+                "Text": "Overall ParkScore Rank: 76",
+                "Total Data": NaN,
+                "Avg. Points": 42.4
+            }
+        ],
+        "Anchorage, AK": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "75",
+                "Text": "75% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 68.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 70.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 35.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$78 ",
+                "Text": "$78 per person is spent on parks and recreation in an average year.",
+                "Total Data": "22,657,958",
+                "Avg. Points": 20.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "59",
+                "Text": "Overall ParkScore Rank: 59",
+                "Total Data": NaN,
+                "Avg. Points": 49.2
+            }
+        ],
+        "Arlington, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "70",
+                "Text": "70% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 60.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 64.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 57.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 48.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$112 ",
+                "Text": "$112 per person is spent on parks and recreation in an average year.",
+                "Total Data": "44,316,481",
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "47",
+                "Text": "Overall ParkScore Rank: 47",
+                "Total Data": NaN,
+                "Avg. Points": 53.2
+            }
+        ],
+        "Arlington, VA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "99",
+                "Text": "99% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 99.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 89.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 71.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$303 ",
+                "Text": "$303 per person is spent on parks and recreation in an average year.",
+                "Total Data": "73,015,394",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "5",
+                "Text": "Overall ParkScore Rank: 5",
+                "Total Data": NaN,
+                "Avg. Points": 79.2
+            }
+        ],
+        "Atlanta, GA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "79",
+                "Text": "79% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 72.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 23.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 60.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 53.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$249 ",
+                "Text": "$249 per person is spent on parks and recreation in an average year.",
+                "Total Data": "128,390,441",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "25",
+                "Text": "Overall ParkScore Rank: 25",
+                "Total Data": NaN,
+                "Avg. Points": 61.8
+            }
+        ],
+        "Aurora, CO": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "90",
+                "Text": "90% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 87.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 51.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 19.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 55.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$142 ",
+                "Text": "$142 per person is spent on parks and recreation in an average year.",
+                "Total Data": "55,246,204",
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "48",
+                "Text": "Overall ParkScore Rank: 48",
+                "Total Data": NaN,
+                "Avg. Points": 52.7
+            }
+        ],
+        "Austin, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "69",
+                "Text": "69% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 59.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 56.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 30.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 45.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$198 ",
+                "Text": "$198 per person is spent on parks and recreation in an average year.",
+                "Total Data": "196,062,840",
+                "Avg. Points": 76.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "44",
+                "Text": "Overall ParkScore Rank: 44",
+                "Total Data": NaN,
+                "Avg. Points": 53.5
+            }
+        ],
+        "Bakersfield, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "46",
+                "Text": "46% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 28.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 50.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 54.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 28.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$108 ",
+                "Text": "$108 per person is spent on parks and recreation in an average year.",
+                "Total Data": "43,728,603",
+                "Avg. Points": 34.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "89",
+                "Text": "Overall ParkScore Rank: 89",
+                "Total Data": NaN,
+                "Avg. Points": 39.0
+            }
+        ],
+        "Baltimore, MD": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "87",
+                "Text": "87% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 83.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 23.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 39.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 80.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$132 ",
+                "Text": "$132 per person is spent on parks and recreation in an average year.",
+                "Total Data": "77,161,776",
+                "Avg. Points": 45.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "43",
+                "Text": "Overall ParkScore Rank: 43",
+                "Total Data": NaN,
+                "Avg. Points": 54.2
+            }
+        ],
+        "Baton Rouge, LA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "52",
+                "Text": "52% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 19.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 74.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 51.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$167 ",
+                "Text": "$167 per person is spent on parks and recreation in an average year.",
+                "Total Data": "38,315,433",
+                "Avg. Points": 62.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "62",
+                "Text": "Overall ParkScore Rank: 62",
+                "Total Data": NaN,
+                "Avg. Points": 48.6
+            }
+        ],
+        "Boise, ID": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "72",
+                "Text": "72% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 64.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 85.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 42.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$203 ",
+                "Text": "$203 per person is spent on parks and recreation in an average year.",
+                "Total Data": "48,521,619",
+                "Avg. Points": 78.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "19",
+                "Text": "Overall ParkScore Rank: 19",
+                "Total Data": NaN,
+                "Avg. Points": 63.9
+            }
+        ],
+        "Boston, MA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "100",
+                "Text": "100% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 49.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 55.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 77.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$175 ",
+                "Text": "$175 per person is spent on parks and recreation in an average year.",
+                "Total Data": "120,364,389",
+                "Avg. Points": 65.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "14",
+                "Text": "Overall ParkScore Rank: 14",
+                "Total Data": NaN,
+                "Avg. Points": 69.4
+            }
+        ],
+        "Buffalo, NY": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "91",
+                "Text": "91% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 88.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 23.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 67.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 64.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$102 ",
+                "Text": "$102 per person is spent on parks and recreation in an average year.",
+                "Total Data": "27,828,113",
+                "Avg. Points": 31.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "41",
+                "Text": "Overall ParkScore Rank: 41",
+                "Total Data": NaN,
+                "Avg. Points": 54.9
+            }
+        ],
+        "Chandler, AZ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "62",
+                "Text": "62% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 36.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 61.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$65 ",
+                "Text": "$65 per person is spent on parks and recreation in an average year.",
+                "Total Data": "18,296,282",
+                "Avg. Points": 14.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "84",
+                "Text": "Overall ParkScore Rank: 84",
+                "Total Data": NaN,
+                "Avg. Points": 40.8
+            }
+        ],
+        "Charlotte/Mecklenburg, NC": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "38",
+                "Text": "38% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 19.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 63.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 30.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 49.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$110 ",
+                "Text": "$110 per person is spent on parks and recreation in an average year.",
+                "Total Data": "126,322,047",
+                "Avg. Points": 35.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "87",
+                "Text": "Overall ParkScore Rank: 87",
+                "Total Data": NaN,
+                "Avg. Points": 39.6
+            }
+        ],
+        "Chesapeake, VA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "46",
+                "Text": "46% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 28.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 82.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 65.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 43.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$126 ",
+                "Text": "$126 per person is spent on parks and recreation in an average year.",
+                "Total Data": "31,972,565",
+                "Avg. Points": 42.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "50",
+                "Text": "Overall ParkScore Rank: 50",
+                "Total Data": NaN,
+                "Avg. Points": 52.2
+            }
+        ],
+        "Chicago, IL": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "98",
+                "Text": "98% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 98.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 31.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 63.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 90.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$200 ",
+                "Text": "$200 per person is spent on parks and recreation in an average year.",
+                "Total Data": "545,032,507",
+                "Avg. Points": 77.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "10",
+                "Text": "Overall ParkScore Rank: 10",
+                "Total Data": NaN,
+                "Avg. Points": 71.8
+            }
+        ],
+        "Chula Vista, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "73",
+                "Text": "73% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 64.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 47.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 47.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 44.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$43 ",
+                "Text": "$43 per person is spent on parks and recreation in an average year.",
+                "Total Data": "11,954,843",
+                "Avg. Points": 4.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "80",
+                "Text": "Overall ParkScore Rank: 80",
+                "Total Data": NaN,
+                "Avg. Points": 41.3
+            }
+        ],
+        "Cincinnati, OH": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "88",
+                "Text": "88% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 84.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 58.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 94.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 70.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$190 ",
+                "Text": "$190 per person is spent on parks and recreation in an average year.",
+                "Total Data": "58,903,442",
+                "Avg. Points": 72.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "8",
+                "Text": "Overall ParkScore Rank: 8",
+                "Total Data": NaN,
+                "Avg. Points": 75.8
+            }
+        ],
+        "Cleveland, OH": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "81",
+                "Text": "81% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 75.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 30.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 56.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 69.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$160 ",
+                "Text": "$160 per person is spent on parks and recreation in an average year.",
+                "Total Data": "59,465,445",
+                "Avg. Points": 58.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "31",
+                "Text": "Overall ParkScore Rank: 31",
+                "Total Data": NaN,
+                "Avg. Points": 57.9
+            }
+        ],
+        "Colorado Springs, CO": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "77",
+                "Text": "77% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 69.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 54.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 38.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 57.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$116 ",
+                "Text": "$116 per person is spent on parks and recreation in an average year.",
+                "Total Data": "56,668,868",
+                "Avg. Points": 38.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "55",
+                "Text": "Overall ParkScore Rank: 55",
+                "Total Data": NaN,
+                "Avg. Points": 51.4
+            }
+        ],
+        "Columbus, OH": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "71",
+                "Text": "71% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 62.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 60.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 40.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 61.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$124 ",
+                "Text": "$124 per person is spent on parks and recreation in an average year.",
+                "Total Data": "110,723,051",
+                "Avg. Points": 42.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "46",
+                "Text": "Overall ParkScore Rank: 46",
+                "Total Data": NaN,
+                "Avg. Points": 53.3
+            }
+        ],
+        "Corpus Christi, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "74",
+                "Text": "74% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 66.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 27.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 41.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 52.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$83 ",
+                "Text": "$83 per person is spent on parks and recreation in an average year.",
+                "Total Data": "26,709,512",
+                "Avg. Points": 23.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "78",
+                "Text": "Overall ParkScore Rank: 78",
+                "Total Data": NaN,
+                "Avg. Points": 41.9
+            }
+        ],
+        "Dallas, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "74",
+                "Text": "74% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 65.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 57.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 34.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 74.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$140 ",
+                "Text": "$140 per person is spent on parks and recreation in an average year.",
+                "Total Data": "186,355,454",
+                "Avg. Points": 49.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "38",
+                "Text": "Overall ParkScore Rank: 38",
+                "Total Data": NaN,
+                "Avg. Points": 56.2
+            }
+        ],
+        "Denver, CO": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "93",
+                "Text": "93% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 90.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 51.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 61.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 69.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$197 ",
+                "Text": "$197 per person is spent on parks and recreation in an average year.",
+                "Total Data": "146,863,120",
+                "Avg. Points": 76.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "13",
+                "Text": "Overall ParkScore Rank: 13",
+                "Total Data": NaN,
+                "Avg. Points": 69.5
+            }
+        ],
+        "Detroit, MI": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "84",
+                "Text": "84% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 79.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 19.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 74.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$80 ",
+                "Text": "$80 per person is spent on parks and recreation in an average year.",
+                "Total Data": "51,565,213",
+                "Avg. Points": 21.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "65",
+                "Text": "Overall ParkScore Rank: 65",
+                "Total Data": NaN,
+                "Avg. Points": 47.2
+            }
+        ],
+        "Durham, NC": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "50",
+                "Text": "50% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 34.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 52.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 43.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$71 ",
+                "Text": "$71 per person is spent on parks and recreation in an average year.",
+                "Total Data": "20,590,907",
+                "Avg. Points": 17.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "92",
+                "Text": "Overall ParkScore Rank: 92",
+                "Total Data": NaN,
+                "Avg. Points": 37.8
+            }
+        ],
+        "El Paso, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "62",
+                "Text": "62% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 58.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 36.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 69.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "52",
+                "Text": "$52 per person is spent on parks and recreation in an average year.",
+                "Total Data": "35,676,057",
+                "Avg. Points": 8.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "72",
+                "Text": "Overall ParkScore Rank: 72",
+                "Total Data": NaN,
+                "Avg. Points": 44.4
+            }
+        ],
+        "Fort Worth, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "62",
+                "Text": "62% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 12.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 52.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$91 ",
+                "Text": "$91 per person is spent on parks and recreation in an average year.",
+                "Total Data": "86,803,347",
+                "Avg. Points": 26.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "91",
+                "Text": "Overall ParkScore Rank: 91",
+                "Total Data": NaN,
+                "Avg. Points": 38.2
+            }
+        ],
+        "Fremont, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "70",
+                "Text": "70% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 61.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 81.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 44.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 56.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$155 ",
+                "Text": "$155 per person is spent on parks and recreation in an average year.",
+                "Total Data": "36,362,732",
+                "Avg. Points": 56.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "29",
+                "Text": "Overall ParkScore Rank: 29",
+                "Total Data": NaN,
+                "Avg. Points": 60.0
+            }
+        ],
+        "Fresno, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "65",
+                "Text": "65% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 54.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 11.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 45.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$86 ",
+                "Text": "$86 per person is spent on parks and recreation in an average year.",
+                "Total Data": "45,340,137",
+                "Avg. Points": 24.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "98",
+                "Text": "Overall ParkScore Rank: 98",
+                "Total Data": NaN,
+                "Avg. Points": 35.4
+            }
+        ],
+        "Garland, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "63",
+                "Text": "63% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 52.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 61.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 21.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 28.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$147 ",
+                "Text": "$147 per person is spent on parks and recreation in an average year.",
+                "Total Data": "36,701,339",
+                "Avg. Points": 52.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "74",
+                "Text": "Overall ParkScore Rank: 74",
+                "Total Data": NaN,
+                "Avg. Points": 42.9
+            }
+        ],
+        "Gilbert, AZ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "81",
+                "Text": "81% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 76.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 34.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 14.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 75.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$95 ",
+                "Text": "$95 per person is spent on parks and recreation in an average year.",
+                "Total Data": "26,256,171",
+                "Avg. Points": 28.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "67",
+                "Text": "Overall ParkScore Rank: 67",
+                "Total Data": NaN,
+                "Avg. Points": 45.7
+            }
+        ],
+        "Glendale, AZ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "73",
+                "Text": "73% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 64.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 28.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 34.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 47.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$78 ",
+                "Text": "$78 per person is spent on parks and recreation in an average year.",
+                "Total Data": "19,592,756",
+                "Avg. Points": 20.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "90",
+                "Text": "Overall ParkScore Rank: 90",
+                "Total Data": NaN,
+                "Avg. Points": 38.8
+            }
+        ],
+        "Greensboro, NC": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "63",
+                "Text": "63% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 52.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 44.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 44.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$79 ",
+                "Text": "$79 per person is spent on parks and recreation in an average year.",
+                "Total Data": "22,873,586",
+                "Avg. Points": 21.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "83",
+                "Text": "Overall ParkScore Rank: 83",
+                "Total Data": NaN,
+                "Avg. Points": 40.9
+            }
+        ],
+        "Henderson, NV": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "74",
+                "Text": "74% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 66.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 72.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 61.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$181 ",
+                "Text": "$181 per person is spent on parks and recreation in an average year.",
+                "Total Data": "59,601,536",
+                "Avg. Points": 68.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "23",
+                "Text": "Overall ParkScore Rank: 23",
+                "Total Data": NaN,
+                "Avg. Points": 62.1
+            }
+        ],
+        "Honolulu, HI": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "72",
+                "Text": "72% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 63.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 72.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 62.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$128 ",
+                "Text": "$128 per person is spent on parks and recreation in an average year.",
+                "Total Data": "128,992,004",
+                "Avg. Points": 44.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "37",
+                "Text": "Overall ParkScore Rank: 37",
+                "Total Data": NaN,
+                "Avg. Points": 56.8
+            }
+        ],
+        "Houston, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "61",
+                "Text": "61% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 49.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 52.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 40.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 51.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$110 ",
+                "Text": "$110 per person is spent on parks and recreation in an average year.",
+                "Total Data": "256,243,425",
+                "Avg. Points": 35.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "68",
+                "Text": "Overall ParkScore Rank: 68",
+                "Total Data": NaN,
+                "Avg. Points": 45.6
+            }
+        ],
+        "Irvine, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "93",
+                "Text": "93% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 92.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 77.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 63.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 67.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$643 ",
+                "Text": "$643 per person is spent on parks and recreation in an average year.",
+                "Total Data": "203,732,056",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "4",
+                "Text": "Overall ParkScore Rank: 4",
+                "Total Data": NaN,
+                "Avg. Points": 80.1
+            }
+        ],
+        "Irving, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "62",
+                "Text": "62% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 22.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 29.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 34.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$88 ",
+                "Text": "$88 per person is spent on parks and recreation in an average year.",
+                "Total Data": "22,600,383",
+                "Avg. Points": 25.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "99",
+                "Text": "Overall ParkScore Rank: 99",
+                "Total Data": NaN,
+                "Avg. Points": 32.2
+            }
+        ],
+        "Jacksonville, FL": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "35",
+                "Text": "35% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 14.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 71.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 61.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 42.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$113 ",
+                "Text": "$113 per person is spent on parks and recreation in an average year.",
+                "Total Data": "109,803,358",
+                "Avg. Points": 37.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "69",
+                "Text": "Overall ParkScore Rank: 69",
+                "Total Data": NaN,
+                "Avg. Points": 45.3
+            }
+        ],
+        "Jersey City, NJ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "98",
+                "Text": "98% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 98.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 28.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 43.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 82.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$91 ",
+                "Text": "$91 per person is spent on parks and recreation in an average year.",
+                "Total Data": "27,279,403",
+                "Avg. Points": 26.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "40",
+                "Text": "Overall ParkScore Rank: 40",
+                "Total Data": NaN,
+                "Avg. Points": 55.6
+            }
+        ],
+        "Kansas City, MO": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "69",
+                "Text": "69% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 59.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 72.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 44.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 83.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$158 ",
+                "Text": "$158 per person is spent on parks and recreation in an average year.",
+                "Total Data": "81,833,057",
+                "Avg. Points": 58.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "20",
+                "Text": "Overall ParkScore Rank: 20",
+                "Total Data": NaN,
+                "Avg. Points": 63.4
+            }
+        ],
+        "Laredo, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "58",
+                "Text": "58% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 44.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 21.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 71.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 74.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$61 ",
+                "Text": "$61 per person is spent on parks and recreation in an average year.",
+                "Total Data": "15,849,020",
+                "Avg. Points": 12.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "71",
+                "Text": "Overall ParkScore Rank: 71",
+                "Total Data": NaN,
+                "Avg. Points": 44.7
+            }
+        ],
+        "Las Vegas, NV": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "74",
+                "Text": "74% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 65.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 45.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 81.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 57.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$59 ",
+                "Text": "$59 per person is spent on parks and recreation in an average year.",
+                "Total Data": "38,188,777",
+                "Avg. Points": 12.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "51",
+                "Text": "Overall ParkScore Rank: 51",
+                "Total Data": NaN,
+                "Avg. Points": 52.1
+            }
+        ],
+        "Lexington/Fayette, KY": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "59",
+                "Text": "59% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 46.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 50.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 48.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 53.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$81 ",
+                "Text": "$81 per person is spent on parks and recreation in an average year.",
+                "Total Data": "26,320,465",
+                "Avg. Points": 22.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "73",
+                "Text": "Overall ParkScore Rank: 73",
+                "Total Data": NaN,
+                "Avg. Points": 44.2
+            }
+        ],
+        "Lincoln, NE": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "89",
+                "Text": "89% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 85.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 44.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 63.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 65.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$96 ",
+                "Text": "$96 per person is spent on parks and recreation in an average year.",
+                "Total Data": "28,036,108",
+                "Avg. Points": 29.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "32",
+                "Text": "Overall ParkScore Rank: 32",
+                "Total Data": NaN,
+                "Avg. Points": 57.5
+            }
+        ],
+        "Long Beach, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "83",
+                "Text": "83% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 78.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 32.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 53.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 41.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$119 ",
+                "Text": "$119 per person is spent on parks and recreation in an average year.",
+                "Total Data": "55,324,340",
+                "Avg. Points": 39.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "61",
+                "Text": "Overall ParkScore Rank: 61",
+                "Total Data": NaN,
+                "Avg. Points": 48.8
+            }
+        ],
+        "Los Angeles, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "63",
+                "Text": "63% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 51.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 52.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 22.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 36.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$108 ",
+                "Text": "$108 per person is spent on parks and recreation in an average year.",
+                "Total Data": "424,154,186",
+                "Avg. Points": 34.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "88",
+                "Text": "Overall ParkScore Rank: 88",
+                "Total Data": NaN,
+                "Avg. Points": 39.1
+            }
+        ],
+        "Louisville, KY": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "37",
+                "Text": "37% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 17.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 57.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 33.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$89 ",
+                "Text": "$89 per person is spent on parks and recreation in an average year.",
+                "Total Data": "56,619,213",
+                "Avg. Points": 25.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "95",
+                "Text": "Overall ParkScore Rank: 95",
+                "Total Data": NaN,
+                "Avg. Points": 37.1
+            }
+        ],
+        "Lubbock, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "52",
+                "Text": "52% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 49.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 26.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 61.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$52 ",
+                "Text": "$52 per person is spent on parks and recreation in an average year.",
+                "Total Data": "13,702,033",
+                "Avg. Points": 8.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "97",
+                "Text": "Overall ParkScore Rank: 97",
+                "Total Data": NaN,
+                "Avg. Points": 36.1
+            }
+        ],
+        "Madison, WI": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "95",
+                "Text": "95% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 93.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 71.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 67.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$112 ",
+                "Text": "$112 per person is spent on parks and recreation in an average year.",
+                "Total Data": "30,443,717",
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "18",
+                "Text": "Overall ParkScore Rank: 18",
+                "Total Data": NaN,
+                "Avg. Points": 64.2
+            }
+        ],
+        "Memphis, TN": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "46",
+                "Text": "46% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 28.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 58.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 36.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 43.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$163 ",
+                "Text": "$163 per person is spent on parks and recreation in an average year.",
+                "Total Data": "103,070,404",
+                "Avg. Points": 60.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "70",
+                "Text": "Overall ParkScore Rank: 70",
+                "Total Data": NaN,
+                "Avg. Points": 45.1
+            }
+        ],
+        "Mesa, AZ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "65",
+                "Text": "65% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "2.8",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 12.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 17.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$136 ",
+                "Text": "$136 per person is spent on parks and recreation in an average year.",
+                "Total Data": "70,283,600",
+                "Avg. Points": 48.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "96",
+                "Text": "Overall ParkScore Rank: 96",
+                "Total Data": NaN,
+                "Avg. Points": 36.8
+            }
+        ],
+        "Miami, FL": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "89",
+                "Text": "89% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 86.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 24.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 67.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 62.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$132 ",
+                "Text": "$132 per person is spent on parks and recreation in an average year.",
+                "Total Data": "60,396,403",
+                "Avg. Points": 45.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "36",
+                "Text": "Overall ParkScore Rank: 36",
+                "Total Data": NaN,
+                "Avg. Points": 56.9
+            }
+        ],
+        "Milwaukee, WI": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "91",
+                "Text": "91% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 88.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 39.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 72.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 55.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$167 ",
+                "Text": "$167 per person is spent on parks and recreation in an average year.",
+                "Total Data": "96,660,830",
+                "Avg. Points": 62.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "21",
+                "Text": "Overall ParkScore Rank: 21",
+                "Total Data": NaN,
+                "Avg. Points": 63.3
+            }
+        ],
+        "Minneapolis, MN": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "99",
+                "Text": "99% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 99.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 62.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 90.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 61.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$318 ",
+                "Text": "$318 per person is spent on parks and recreation in an average year.",
+                "Total Data": "137,680,299",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "2",
+                "Text": "Overall ParkScore Rank: 2",
+                "Total Data": NaN,
+                "Avg. Points": 82.5
+            }
+        ],
+        "Nashville/Davidson, TN": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "46",
+                "Text": "46% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 28.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 67.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 35.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 56.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$81 ",
+                "Text": "$81 per person is spent on parks and recreation in an average year.",
+                "Total Data": "57,484,277",
+                "Avg. Points": 22.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "78",
+                "Text": "Overall ParkScore Rank: 78",
+                "Total Data": NaN,
+                "Avg. Points": 41.9
+            }
+        ],
+        "New Orleans, LA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "81",
+                "Text": "81% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 75.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 56.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 35.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 55.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$173 ",
+                "Text": "$173 per person is spent on parks and recreation in an average year.",
+                "Total Data": "67,270,922",
+                "Avg. Points": 65.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "35",
+                "Text": "Overall ParkScore Rank: 35",
+                "Total Data": NaN,
+                "Avg. Points": 57.2
+            }
+        ],
+        "New York, NY": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "99",
+                "Text": "99% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 99.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 52.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 47.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 75.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$202 ",
+                "Text": "$202 per person is spent on parks and recreation in an average year.",
+                "Total Data": "1,746,042,449",
+                "Avg. Points": 78.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "12",
+                "Text": "Overall ParkScore Rank: 12",
+                "Total Data": NaN,
+                "Avg. Points": 70.2
+            }
+        ],
+        "Newark, NJ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "94",
+                "Text": "94% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 92.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 12.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 37.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 95.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$35 ",
+                "Text": "$35 per person is spent on parks and recreation in an average year.",
+                "Total Data": "10,609,126",
+                "Avg. Points": 1.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "63",
+                "Text": "Overall ParkScore Rank: 63",
+                "Total Data": NaN,
+                "Avg. Points": 47.7
+            }
+        ],
+        "Norfolk, VA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "78",
+                "Text": "78% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 71.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 18.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 76.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 75.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$58 ",
+                "Text": "$58 per person is spent on parks and recreation in an average year.",
+                "Total Data": "13,912,380",
+                "Avg. Points": 11.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "58",
+                "Text": "Overall ParkScore Rank: 58",
+                "Total Data": NaN,
+                "Avg. Points": 50.5
+            }
+        ],
+        "North Las Vegas, NV": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "64",
+                "Text": "64% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 82.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 52.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$126 ",
+                "Text": "$126 per person is spent on parks and recreation in an average year.",
+                "Total Data": "34,128,906",
+                "Avg. Points": 43.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "42",
+                "Text": "Overall ParkScore Rank: 42",
+                "Total Data": NaN,
+                "Avg. Points": 54.6
+            }
+        ],
+        "Oakland, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "89",
+                "Text": "89% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 85.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 44.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 44.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 51.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$109 ",
+                "Text": "$109 per person is spent on parks and recreation in an average year.",
+                "Total Data": "47,422,203",
+                "Avg. Points": 35.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "52",
+                "Text": "Overall ParkScore Rank: 52",
+                "Total Data": NaN,
+                "Avg. Points": 51.9
+            }
+        ],
+        "Oklahoma City, OK": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "40",
+                "Text": "40% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 21.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 34.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 35.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 65.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$100 ",
+                "Text": "$100 per person is spent on parks and recreation in an average year.",
+                "Total Data": "69,638,833",
+                "Avg. Points": 31.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "94",
+                "Text": "Overall ParkScore Rank: 94",
+                "Total Data": NaN,
+                "Avg. Points": 37.5
+            }
+        ],
+        "Omaha, NE": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "81",
+                "Text": "81% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 75.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 57.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 54.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 56.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$83 ",
+                "Text": "$83 per person is spent on parks and recreation in an average year.",
+                "Total Data": "41,264,550",
+                "Avg. Points": 23.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "45",
+                "Text": "Overall ParkScore Rank: 45",
+                "Total Data": NaN,
+                "Avg. Points": 53.4
+            }
+        ],
+        "Orlando, FL": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "70",
+                "Text": "70% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 60.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 23.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 45.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 46.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$169 ",
+                "Text": "$169 per person is spent on parks and recreation in an average year.",
+                "Total Data": "52,747,916",
+                "Avg. Points": 63.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "64",
+                "Text": "Overall ParkScore Rank: 64",
+                "Total Data": NaN,
+                "Avg. Points": 47.6
+            }
+        ],
+        "Philadelphia, PA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "95",
+                "Text": "95% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 94.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 43.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 59.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 67.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$86 ",
+                "Text": "$86 per person is spent on parks and recreation in an average year.",
+                "Total Data": "138,466,486",
+                "Avg. Points": 24.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "32",
+                "Text": "Overall ParkScore Rank: 32",
+                "Total Data": NaN,
+                "Avg. Points": 57.5
+            }
+        ],
+        "Phoenix, AZ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "49",
+                "Text": "49% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 33.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 89.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 19.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 31.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$91 ",
+                "Text": "$91 per person is spent on parks and recreation in an average year.",
+                "Total Data": "148,708,195",
+                "Avg. Points": 26.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "85",
+                "Text": "Overall ParkScore Rank: 85",
+                "Total Data": NaN,
+                "Avg. Points": 39.9
+            }
+        ],
+        "Pittsburgh, PA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "93",
+                "Text": "93% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 91.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 88.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 60.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$141 ",
+                "Text": "$141 per person is spent on parks and recreation in an average year.",
+                "Total Data": "43,142,033",
+                "Avg. Points": 50.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "17",
+                "Text": "Overall ParkScore Rank: 17",
+                "Total Data": NaN,
+                "Avg. Points": 65.1
+            }
+        ],
+        "Plano, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "82",
+                "Text": "82% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 76.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 68.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 49.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 66.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$181 ",
+                "Text": "$181 per person is spent on parks and recreation in an average year.",
+                "Total Data": "53,501,053",
+                "Avg. Points": 68.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "16",
+                "Text": "Overall ParkScore Rank: 16",
+                "Total Data": NaN,
+                "Avg. Points": 65.7
+            }
+        ],
+        "Port St. Lucie, FL": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "25",
+                "Text": "25% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 1.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 52.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 14.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 35.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$71 ",
+                "Text": "$71 per person is spent on parks and recreation in an average year.",
+                "Total Data": "16,207,968",
+                "Avg. Points": 17.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "100",
+                "Text": "Overall ParkScore Rank: 100",
+                "Total Data": NaN,
+                "Avg. Points": 24.0
+            }
+        ],
+        "Portland, OR": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "91",
+                "Text": "91% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 88.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 66.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 67.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 56.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$233 ",
+                "Text": "$233 per person is spent on parks and recreation in an average year.",
+                "Total Data": "153,471,698",
+                "Avg. Points": 92.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "9",
+                "Text": "Overall ParkScore Rank: 9",
+                "Total Data": NaN,
+                "Avg. Points": 74.0
+            }
+        ],
+        "Raleigh, NC": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "47",
+                "Text": "47% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 31.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 54.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 57.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 41.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$186 ",
+                "Text": "$186 per person is spent on parks and recreation in an average year.",
+                "Total Data": "89,499,674",
+                "Avg. Points": 71.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "56",
+                "Text": "Overall ParkScore Rank: 56",
+                "Total Data": NaN,
+                "Avg. Points": 51.0
+            }
+        ],
+        "Reno, NV": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "76",
+                "Text": "76% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 69.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 29.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 52.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 44.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$58 ",
+                "Text": "$58 per person is spent on parks and recreation in an average year.",
+                "Total Data": "15,728,433",
+                "Avg. Points": 11.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "80",
+                "Text": "Overall ParkScore Rank: 80",
+                "Total Data": NaN,
+                "Avg. Points": 41.3
+            }
+        ],
+        "Richmond, VA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "80",
+                "Text": "80% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 74.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 34.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 68.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 87.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$135 ",
+                "Text": "$135 per person is spent on parks and recreation in an average year.",
+                "Total Data": "31,367,442",
+                "Avg. Points": 47.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "22",
+                "Text": "Overall ParkScore Rank: 22",
+                "Total Data": NaN,
+                "Avg. Points": 62.3
+            }
+        ],
+        "Riverside, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "51",
+                "Text": "51% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 35.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 66.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 46.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 47.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$74 ",
+                "Text": "$74 per person is spent on parks and recreation in an average year.",
+                "Total Data": "23,511,345",
+                "Avg. Points": 18.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "76",
+                "Text": "Overall ParkScore Rank: 76",
+                "Total Data": NaN,
+                "Avg. Points": 42.4
+            }
+        ],
+        "Sacramento, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "85",
+                "Text": "85% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 81.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 45.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 66.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 56.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$124 ",
+                "Text": "$124 per person is spent on parks and recreation in an average year.",
+                "Total Data": "65,265,850",
+                "Avg. Points": 42.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "30",
+                "Text": "Overall ParkScore Rank: 30",
+                "Total Data": NaN,
+                "Avg. Points": 58.3
+            }
+        ],
+        "San Antonio, TX": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "52",
+                "Text": "52% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 71.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 47.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 59.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$129 ",
+                "Text": "$129 per person is spent on parks and recreation in an average year.",
+                "Total Data": "186,873,285",
+                "Avg. Points": 44.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "53",
+                "Text": "Overall ParkScore Rank: 53",
+                "Total Data": NaN,
+                "Avg. Points": 51.6
+            }
+        ],
+        "San Diego, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "81",
+                "Text": "81% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 75.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 80.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 42.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 42.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$173 ",
+                "Text": "$173 per person is spent on parks and recreation in an average year.",
+                "Total Data": "240,077,440",
+                "Avg. Points": 64.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "26",
+                "Text": "Overall ParkScore Rank: 26",
+                "Total Data": NaN,
+                "Avg. Points": 61.0
+            }
+        ],
+        "San Francisco, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "100",
+                "Text": "100% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 53.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 65.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 63.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$546 ",
+                "Text": "$546 per person is spent on parks and recreation in an average year.",
+                "Total Data": "480,884,442",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "7",
+                "Text": "Overall ParkScore Rank: 7",
+                "Total Data": NaN,
+                "Avg. Points": 76.5
+            }
+        ],
+        "San Jose, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "80",
+                "Text": "80% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 74.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 51.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 32.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 73.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$156 ",
+                "Text": "$156 per person is spent on parks and recreation in an average year.",
+                "Total Data": "158,773,365",
+                "Avg. Points": 57.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "32",
+                "Text": "Overall ParkScore Rank: 32",
+                "Total Data": NaN,
+                "Avg. Points": 57.5
+            }
+        ],
+        "Santa Ana, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "73",
+                "Text": "73% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 65.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 30.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 17.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 40.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$111 ",
+                "Text": "$111 per person is spent on parks and recreation in an average year.",
+                "Total Data": "34,760,640",
+                "Avg. Points": 35.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "93",
+                "Text": "Overall ParkScore Rank: 93",
+                "Total Data": NaN,
+                "Avg. Points": 37.7
+            }
+        ],
+        "Santa Clarita, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "52",
+                "Text": "52% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 36.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 73.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 38.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 33.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$209 ",
+                "Text": "$209 per person is spent on parks and recreation in an average year.",
+                "Total Data": "47,519,098",
+                "Avg. Points": 81.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "49",
+                "Text": "Overall ParkScore Rank: 49",
+                "Total Data": NaN,
+                "Avg. Points": 52.4
+            }
+        ],
+        "Scottsdale, AZ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "40",
+                "Text": "40% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 21.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 45.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 36.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$144 ",
+                "Text": "$144 per person is spent on parks and recreation in an average year.",
+                "Total Data": "35,809,860",
+                "Avg. Points": 51.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "57",
+                "Text": "Overall ParkScore Rank: 57",
+                "Total Data": NaN,
+                "Avg. Points": 50.7
+            }
+        ],
+        "Seattle, WA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "99",
+                "Text": "99% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 99.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 55.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 79.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$376 ",
+                "Text": "$376 per person is spent on parks and recreation in an average year.",
+                "Total Data": "284,421,965",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "6",
+                "Text": "Overall ParkScore Rank: 6",
+                "Total Data": NaN,
+                "Avg. Points": 77.4
+            }
+        ],
+        "Spokane, WA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "86",
+                "Text": "86% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 81.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 39.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 72.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 51.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$176 ",
+                "Text": "$176 per person is spent on parks and recreation in an average year.",
+                "Total Data": "41,010,823",
+                "Avg. Points": 66.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "23",
+                "Text": "Overall ParkScore Rank: 23",
+                "Total Data": NaN,
+                "Avg. Points": 62.1
+            }
+        ],
+        "St. Louis, MO": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "97",
+                "Text": "97% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 97.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 31.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 58.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 74.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$122 ",
+                "Text": "$122 per person is spent on parks and recreation in an average year.",
+                "Total Data": "36,431,176",
+                "Avg. Points": 41.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "28",
+                "Text": "Overall ParkScore Rank: 28",
+                "Total Data": NaN,
+                "Avg. Points": 60.5
+            }
+        ],
+        "St. Paul, MN": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "99",
+                "Text": "99% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 98.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 52.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 81.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 80.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$242 ",
+                "Text": "$242 per person is spent on parks and recreation in an average year.",
+                "Total Data": "74,698,231",
+                "Avg. Points": 96.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "3",
+                "Text": "Overall ParkScore Rank: 3",
+                "Total Data": NaN,
+                "Avg. Points": 81.6
+            }
+        ],
+        "St. Petersburg, FL": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "78",
+                "Text": "78% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 72.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 48.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 69.5
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 85.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$207 ",
+                "Text": "$207 per person is spent on parks and recreation in an average year.",
+                "Total Data": "54,252,708",
+                "Avg. Points": 80.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "11",
+                "Text": "Overall ParkScore Rank: 11",
+                "Total Data": NaN,
+                "Avg. Points": 71.0
+            }
+        ],
+        "Stockton, CA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "76",
+                "Text": "76% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 68.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 28.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 37.66666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 64.25
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$37 ",
+                "Text": "$37 per person is spent on parks and recreation in an average year.",
+                "Total Data": "11,735,724",
+                "Avg. Points": 1.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "85",
+                "Text": "Overall ParkScore Rank: 85",
+                "Total Data": NaN,
+                "Avg. Points": 39.9
+            }
+        ],
+        "Tampa, FL": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "65",
+                "Text": "65% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 54.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 32.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 75.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 72.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$131 ",
+                "Text": "$131 per person is spent on parks and recreation in an average year.",
+                "Total Data": "51,285,712",
+                "Avg. Points": 45.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "39",
+                "Text": "Overall ParkScore Rank: 39",
+                "Total Data": NaN,
+                "Avg. Points": 55.8
+            }
+        ],
+        "Toledo, OH": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "83",
+                "Text": "83% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 77.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 36.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 35.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 90.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$173 ",
+                "Text": "$173 per person is spent on parks and recreation in an average year.",
+                "Total Data": "46,481,863",
+                "Avg. Points": 64.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "27",
+                "Text": "Overall ParkScore Rank: 27",
+                "Total Data": NaN,
+                "Avg. Points": 60.8
+            }
+        ],
+        "Tucson, AZ": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "64",
+                "Text": "64% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 53.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 33.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 48.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 63.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$68 ",
+                "Text": "$68 per person is spent on parks and recreation in an average year.",
+                "Total Data": "37,289,061",
+                "Avg. Points": 16.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "75",
+                "Text": "Overall ParkScore Rank: 75",
+                "Total Data": NaN,
+                "Avg. Points": 42.7
+            }
+        ],
+        "Tulsa, OK": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "65",
+                "Text": "65% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 54.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 57.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 45.83333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 69.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$75 ",
+                "Text": "$75 per person is spent on parks and recreation in an average year.",
+                "Total Data": "30,781,077",
+                "Avg. Points": 19.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "60",
+                "Text": "Overall ParkScore Rank: 60",
+                "Total Data": NaN,
+                "Avg. Points": 49.1
+            }
+        ],
+        "Virginia Beach, VA": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "68",
+                "Text": "68% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 58.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 64.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 44.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 48.0
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$128 ",
+                "Text": "$128 per person is spent on parks and recreation in an average year.",
+                "Total Data": "58,652,044",
+                "Avg. Points": 44.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "53",
+                "Text": "Overall ParkScore Rank: 53",
+                "Total Data": NaN,
+                "Avg. Points": 51.6
+            }
+        ],
+        "Washington, DC": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "99",
+                "Text": "99% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 99.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 54.5
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 83.16666667
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 87.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$345 ",
+                "Text": "$345 per person is spent on parks and recreation in an average year.",
+                "Total Data": "241,899,195",
+                "Avg. Points": 100.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "1",
+                "Text": "Overall ParkScore Rank: 1",
+                "Total Data": NaN,
+                "Avg. Points": 84.8
+            }
+        ],
+        "Wichita, KS": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "52",
+                "Text": "52% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 37.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 55.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 48.33333333
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 72.75
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$78 ",
+                "Text": "$78 per person is spent on parks and recreation in an average year.",
+                "Total Data": "30,787,548",
+                "Avg. Points": 20.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "66",
+                "Text": "Overall ParkScore Rank: 66",
+                "Total Data": NaN,
+                "Avg. Points": 46.6
+            }
+        ],
+        "Winston-Salem, NC": [
+            {
+                "Category": "Access",
+                "Per Cap Data": "37",
+                "Text": "37% of population lives within a 10-minute walk of a park.",
+                "Total Data": NaN,
+                "Avg. Points": 17.0
+            },
+            {
+                "Category": "Acreage",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 54.0
+            },
+            {
+                "Category": "Amenities",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": "*",
+                "Avg. Points": 59.0
+            },
+            {
+                "Category": "Equity",
+                "Per Cap Data": "*",
+                "Text": "*",
+                "Total Data": NaN,
+                "Avg. Points": 61.5
+            },
+            {
+                "Category": "Investment",
+                "Per Cap Data": "$65 ",
+                "Text": "$65 per person is spent on parks and recreation in an average year.",
+                "Total Data": "16,327,496",
+                "Avg. Points": 14.0
+            },
+            {
+                "Category": "Total",
+                "Per Cap Data": "82",
+                "Text": "Overall ParkScore Rank: 82",
+                "Total Data": NaN,
+                "Avg. Points": 41.1
+            }
+        ]
+    }
+}
