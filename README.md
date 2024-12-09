@@ -1,3 +1,7 @@
+# Objective
+
+This project explores how park score correlates with device screen time for the top 100 most populous US cities. Accessibility to physical activity through parks, as measured by park score, would hopefully provide a reliable measure for user physical activity, measured by screen time for specific app categories.
+
 # Instructions
 
 Run "CS_210_Final_Project.ipynb". The data are all stored in this repo, so there is no need to download anything else.
