@@ -1,0 +1,101 @@
+city_name,med_health_and_fitness,med_social_media,median_overall
+"Albuquerque, NM",126.0,110.5,116.0
+"Anaheim, CA",99.0,106.0,116.0
+"Anchorage, AK",125.0,120.0,123.0
+"Arlington, TX",112.5,125.0,125.0
+"Arlington, VA",128.0,122.0,122.0
+"Atlanta, GA",121.0,100.0,118.0
+"Aurora, CO",128.0,121.0,124.0
+"Austin, TX",121.0,131.5,120.0
+"Bakersfield, CA",109.0,120.5,124.0
+"Baltimore, MD",139.0,114.5,124.0
+"Baton Rouge, LA",114.0,115.5,122.0
+"Boise, ID",130.5,125.0,125.0
+"Boston, MA",122.0,126.5,122.0
+"Buffalo, NY",120.0,120.5,118.0
+"Chandler, AZ",106.5,115.0,118.5
+"Charlotte/Mecklenburg, NC",134.0,113.0,123.0
+"Chesapeake, VA",124.0,128.0,121.0
+"Chicago, IL",104.0,115.0,119.0
+"Chula Vista, CA",122.0,114.5,122.5
+"Cincinnati, OH",123.0,119.0,120.0
+"Cleveland, OH",127.5,120.0,120.0
+"Colorado Springs, CO",131.0,125.0,123.0
+"Columbus, OH",119.0,121.5,123.0
+"Corpus Christi, TX",111.5,124.0,117.0
+"Dallas, TX",124.0,122.0,118.0
+"Denver, CO",118.0,110.0,118.0
+"Detroit, MI",116.0,131.0,121.5
+"Durham, NC",122.0,116.0,118.0
+"El Paso, TX",124.0,130.0,123.0
+"Fort Worth, TX",129.0,130.0,122.0
+"Fremont, CA",120.5,127.0,124.0
+"Fresno, CA",108.0,139.0,119.0
+"Garland, TX",113.0,119.0,118.0
+"Gilbert, AZ",118.0,115.0,122.0
+"Glendale, AZ",121.0,118.0,117.0
+"Greensboro, NC",117.0,122.5,119.0
+"Henderson, NV",123.0,121.5,123.0
+"Honolulu, HI",115.0,123.0,122.0
+"Houston, TX",112.0,122.5,119.0
+"Irvine, CA",118.0,137.0,123.0
+"Irving, TX",129.0,118.0,124.5
+"Jacksonville, FL",125.0,125.0,121.0
+"Jersey City, NJ",121.0,116.0,122.0
+"Kansas City, MO",132.5,119.0,120.0
+"Laredo, TX",109.5,128.5,121.0
+"Las Vegas, NV",136.5,116.0,124.0
+"Lexington/Fayette, KY",107.5,115.0,124.0
+"Lincoln, NE",131.0,131.5,122.5
+"Long Beach, CA",124.0,114.5,122.0
+"Los Angeles, CA",121.0,123.0,123.0
+"Louisville, KY",112.0,121.0,121.0
+"Lubbock, TX",127.0,106.5,120.0
+"Madison, WI",121.0,116.0,120.0
+"Memphis, TN",118.0,117.5,118.0
+"Mesa, AZ",117.0,133.0,121.0
+"Miami, FL",123.0,114.0,122.0
+"Milwaukee, WI",112.0,119.5,121.0
+"Minneapolis, MN",106.0,107.0,121.0
+"Nashville/Davidson, TN",114.0,120.0,116.0
+"New Orleans, LA",111.0,105.5,116.0
+"New York, NY",112.0,113.0,124.0
+"Newark, NJ",122.0,112.5,116.0
+"Norfolk, VA",119.0,112.0,119.0
+"North Las Vegas, NV",121.0,110.0,120.0
+"Oakland, CA",114.5,124.0,118.5
+"Oklahoma City, OK",115.0,117.5,120.5
+"Omaha, NE",130.0,124.0,120.0
+"Orlando, FL",114.0,119.0,117.0
+"Philadelphia, PA",113.0,119.5,118.0
+"Phoenix, AZ",118.5,125.0,125.0
+"Pittsburgh, PA",123.0,128.0,121.0
+"Plano, TX",127.0,143.0,120.0
+"Port St. Lucie, FL",121.0,117.5,118.0
+"Portland, OR",119.0,125.5,119.0
+"Raleigh, NC",124.5,123.5,123.0
+"Reno, NV",108.0,115.0,117.0
+"Richmond, VA",133.0,119.0,124.0
+"Riverside, CA",120.0,125.0,120.0
+"Sacramento, CA",124.0,126.5,120.0
+"San Antonio, TX",129.5,117.5,120.0
+"San Diego, CA",123.0,121.5,121.0
+"San Francisco, CA",129.0,133.0,124.0
+"San Jose, CA",127.0,123.0,118.0
+"Santa Ana, CA",117.5,103.0,119.0
+"Santa Clarita, CA",109.0,128.0,121.0
+"Scottsdale, AZ",119.0,123.0,120.0
+"Seattle, WA",111.0,127.0,124.0
+"Spokane, WA",122.0,119.0,119.0
+"St. Louis, MO",116.0,119.5,123.0
+"St. Paul, MN",126.0,118.0,118.0
+"St. Petersburg, FL",121.0,119.0,121.0
+"Stockton, CA",130.0,113.0,120.0
+"Tampa, FL",121.0,112.5,121.0
+"Toledo, OH",123.0,129.0,124.0
+"Tucson, AZ",118.0,126.0,124.0
+"Tulsa, OK",121.0,126.0,121.0
+"Virginia Beach, VA",116.0,108.0,118.0
+"Washington, DC",120.0,109.0,119.0
+"Wichita, KS",113.0,128.0,121.0
+"Winston-Salem, NC",111.5,112.0,117.0
