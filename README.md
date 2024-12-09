@@ -6,4 +6,4 @@ If you are generating new synthetic data rather than using "screentime.csv" stor
 
 # Original dataset
 
-The 2024 ParkScore Index dataset can be found here: https://www.tpl.org/parkscore/rankings
+The 2024 ParkScore Index dataset was sourced from here: https://www.tpl.org/parkscore/rankings
